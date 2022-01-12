@@ -18,6 +18,9 @@ const hardDomainBlacklist = {
 	"discordap.com": "Discord scam site",
 	"boostnitro.com": "Discord scam site",
 	"discordboost.com": "Discord scam site",
+        "discordsteaml.com": "Discord scam site",
+        "team-discord.com": "Discord scam site",
+        "boostdiscorcl.shop": "Discord scam site"
 }
 
 const hardPhraseBlacklist = {
@@ -35,7 +38,7 @@ const hardPhraseBlacklist = {
 const blacklistedSiteContent = {
 	"Get 3 months of Discord Nitro free from STEAM.": "Steam-Discord Scam",
 	"pososi_mudila.webm": "Steam-Discord scam",
-	"3 months of Discord Nitro free": "Discord Nitro Scam",
+	"3 months of Discord Nitro free": "Discord Nitro Scam"
 }
 
 module.exports.hardDomainBlacklist = {
