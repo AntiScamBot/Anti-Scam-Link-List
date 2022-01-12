@@ -37,3 +37,9 @@ const blacklistedSiteContent = {
 	"pososi_mudila.webm": "Steam-Discord scam",
 	"3 months of Discord Nitro free": "Discord Nitro Scam",
 }
+
+module.exports.hardDomainBlacklist = {
+	hardDomainBlacklist,
+	hardPhraseBlacklist,
+	blacklistedSiteContent
+}
