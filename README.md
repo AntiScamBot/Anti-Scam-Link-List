@@ -1,5 +1,5 @@
 # Anti-Scam Bot Link List
-This is a list of links I collect for my bot. If you want to submit one, feel free to open a pull request [here](https://github.com/2Lost4This/Anti-Scam-Bot-Link-List/labels/issues/new)
+This is a list of links I collect for my bot. If you want to submit one, feel free to open a issue [here](https://github.com/2Lost4This/Anti-Scam-Bot-Link-List/labels/issues/new)
 I will then check them, and then add them to the list, and then add them to the bot
 ## Examples 
 I also show a small snippet of my code so you can see how the report should look best
