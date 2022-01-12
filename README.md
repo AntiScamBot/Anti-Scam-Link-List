@@ -12,9 +12,6 @@ I also show a small snippet of my code so you can see how the report should look
 If you have any questions, feel free to open a pull request at the [Question](https://github.com/2Lost4This/Anti-Scam-Bot-Link-List/labels/question) label. 
 I will try to help as soon as possible. Also you can [join my server](https://discord.gg/4Q87pfTWqC) to ask questions, also i will probably make a public log (with webhooks) where i will mark solved pull requests
 
-I will probably make a public log (with webhooks) where I will mark solved pull requests
-
-
 # Warning
 Please don't open the site in your browser and don't fill out the login form!
 
