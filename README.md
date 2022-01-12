@@ -17,3 +17,8 @@ I will probably make a public log (with webhooks) where I will mark solved pull 
 
 # Warning
 Please don't open the site in your browser and don't fill out the login form!
+
+# Special Thanks
+<a href="https://github.com/2Lost4This/Anti-Scam-Bot-Link-List/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=2Lost4This/Anti-Scam-Bot-Link-List" />
+</a>
