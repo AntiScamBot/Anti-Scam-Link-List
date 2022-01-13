@@ -1,13 +1,21 @@
 ---
-name: Scam Url
-about: New scam url
-title: New scam url
-labels: ''
+name: Add malicious Link
+about: Issue Template for Submit malicious URLs
+title: Add a new malicious Link 
+labels: 'Submit Link'
 assignees: ''
 
 ---
 
-## Scam Url
-Your scam url
+## malicious Links 
+The malicious URL
+
+
 ## Reason
-Why should the url be listed? E.g discord scam site
+Why should the URL be listed? E.g discord scam site
+
+
+## Checklist
+- [ ] No duplicate
+- [ ] Not already listed 
+- [ ] CodeQL Checks having not any errors
