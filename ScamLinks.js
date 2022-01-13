@@ -8,6 +8,7 @@ const hardDomainBlacklist = {
 	"discord-app.xyz": "Discord scam site",
 	"freenitro.com": "Discord scam site",
 	"free-nitro.com": "Discord scam site",
+	"https://csgorun-offical.site": "CSGO Scam",
 	"discordieam.com": "Discord scam site",
 	"freediscordnitro.com": "Discord scam site",
 	"discocrd-gift.com": "Discord scam site",
