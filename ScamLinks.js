@@ -20,7 +20,8 @@ const hardDomainBlacklist = {
 	"discordboost.com": "Discord scam site",
         "discordsteaml.com": "Discord scam site",
         "team-discord.com": "Discord scam site",
-        "boostdiscorcl.shop": "Discord scam site"
+        "boostdiscorcl.shop": "Discord scam site",
+        "https://csgorun-offical.site/": "Steam scam site"
 }
 
 const hardPhraseBlacklist = {
