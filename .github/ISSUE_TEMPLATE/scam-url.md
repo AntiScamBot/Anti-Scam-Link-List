@@ -18,4 +18,4 @@ Why should the URL be listed? E.g discord scam site
 ## Checklist
 - [ ] No duplicate
 - [ ] Not already listed 
-- [ ] CodeQL Checks having not any errors
+
