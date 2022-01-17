@@ -27,7 +27,8 @@ const hardDomainBlacklist = {
         "steellseriesnitros.com": "Discord scam site",
         "dlscord.top": "Discord scam site",
         "dlscord.top": "Discord scam site",
-        "gg-nitro.com": "Discord scam site"
+        "gg-nitro.com": "Discord scam site",
+	"discrods.gift": "Discord scam site"
 
 
 }
