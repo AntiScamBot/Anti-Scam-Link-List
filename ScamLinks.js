@@ -28,9 +28,8 @@ const hardDomainBlacklist = {
         "dlscord.top": "Discord scam site",
         "dlscord.top": "Discord scam site",
         "gg-nitro.com": "Discord scam site",
-	"discrods.gift": "Discord scam site"
-
-
+	"discrods.gift": "Discord scam site",
+	"discordll.com/nitro": "Discord scam site"
 }
 
 const hardPhraseBlacklist = {
