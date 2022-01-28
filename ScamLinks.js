@@ -29,7 +29,8 @@ const hardDomainBlacklist = {
         "dlscord.top": "Discord scam site",
         "gg-nitro.com": "Discord scam site",
 	"discrods.gift": "Discord scam site",
-	"discordll.com/nitro": "Discord scam site"
+	"discordll.com/nitro": "Discord scam site",
+	"youtube.com/watch?v=dQw4w9WgXcQ&t=&ab_channel=RickAstley" "Rickroll site"
 }
 
 const hardPhraseBlacklist = {
