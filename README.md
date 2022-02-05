@@ -1,4 +1,4 @@
-# Anti-Scam Bot Link List
+# Anti-Scam Link List
 This is a list of links I collect for my bot. If you want to submit one, feel free to open a issue [here](https://github.com/AntiScamBot/Anti-Scam-Link-List/issues/new)
 I will then check them, and then add them to the list, and then add them to the bot
 
