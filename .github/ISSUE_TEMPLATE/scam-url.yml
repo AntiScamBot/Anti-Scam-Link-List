@@ -1,6 +1,5 @@
-
 name: Add malicious Link
-about: 'Issue Template for Submit malicious URLs'
+description: 'Issue Template for Submit malicious URLs'
 labels: 'Submit Link'
 body:
   - type: markdown
@@ -24,5 +23,9 @@ body:
   - type: checkboxes 
     id: checklist 
     attributes:
-      label: Not already listed
-      required: true
+      label: Checklist 
+      description: Please make sure that...
+      options: 
+       - label: The URL is not already listed 
+       required: true
+      
