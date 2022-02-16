@@ -26,5 +26,7 @@ body:
       label: Checklist 
       description: Please make sure that...
       options: 
-         label: The URL is not already listed 
+         - label: The URL is not already listed 
+         required: true
+         - label: Not a duplicate
          required: true
