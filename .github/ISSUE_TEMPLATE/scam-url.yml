@@ -5,8 +5,8 @@ title: "[REQUEST]: "
 labels: ["Submit Link"]
 body:
   - type: markdown
-    label: ⚠ WARNING
     attributes:
+      label: ⚠ WARNING
       value: |
         | ⚠️ **WARNING** | 
         |:---------------------------| 
