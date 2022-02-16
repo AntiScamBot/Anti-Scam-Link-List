@@ -1,11 +1,13 @@
+labels: 'Submit Link'
 name: Add malicious Link
 description: 'Issue Template for Submit malicious URLs'
-labels: 'Submit Link'
+title: "[REQUEST]: "
+labels: ["Submit Link"]
 body:
   - type: markdown
     attributes:
       value: |
-        | ⚠️ **WARNING /** | 
+        | ⚠️ **WARNING** | 
         |:---------------------------| 
         | Please don't open the site in your browser and don't fill out the login form!
   - type: input
@@ -17,16 +19,16 @@ body:
     validations:
       required: true
     attributes:
-      label: Type of the Site
+      label: Type of the site
       description: Which scam site type is it? 
       value: Discord scam site
-  - type: checkboxes 
-    id: checklist 
+  - type: checkboxes
+    id: terms
     attributes:
-      label: Checklist 
-      description: Please make sure that...
-      options: 
-         - label: The URL is not already listed 
-         required: true
-         - label: Not a duplicate
-         required: true
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/AntiScamBot/Anti-Scam-Link-List/tree/main/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow the Code of Conduct.
+          required: true
+        - label: I'm sure that the Issue / Scam URL Request isn't a duplicate and that the URL isn't already listed.
+          required: true
