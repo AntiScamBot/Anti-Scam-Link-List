@@ -1,8 +1,7 @@
 
 name: Add malicious Link
-about: Issue Template for Submit malicious URLs
-title: 'malicious Link':
-labels: "Submit Link'
+about: 'Issue Template for Submit malicious URLs'
+labels: 'Submit Link'
 body:
   - type: markdown
     attributes:
