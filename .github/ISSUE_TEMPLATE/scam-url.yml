@@ -1,0 +1,27 @@
+
+name: Add malicious Link
+about: Issue Template for Submit malicious URLs
+title: Add a new malicious Link 
+labels: 'Submit Link'
+name: Report a code that doesn't work
+description: Report a code that isn't working.
+labels: [code report]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        | ⚠️ **WARNING /** | 
+        |:---------------------------| 
+        | Please don't open the site in your browser and don't fill out the login form!
+  - type: input
+    attributes:
+      label: Scam URLq
+    validations:
+      required: true
+  - type: textarea
+    validations:
+      required: true
+    attributes:
+      label: Type of the Site
+      description: Which scam site type is it? 
+      value: Discord scam site
