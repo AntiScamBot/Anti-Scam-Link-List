@@ -6,7 +6,6 @@ labels: ["Submit Link"]
 body:
   - type: markdown
     attributes:
-      - label: ⚠ WARNING
       value: |
         | ⚠️ **WARNING** | 
         |:---------------------------| 
