@@ -11,6 +11,7 @@ body:
         |:---------------------------| 
         | Please don't open the site in your browser and don't fill out the login form!
   - type: input
+    id: url
     attributes:
       label: Scam URL 
     validations:
